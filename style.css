@@ -2642,7 +2642,7 @@ a {
 .first-layout-work-page {
   position: absolute;
   width: 1263px;
-  height: 2286px;
+  height: 1786px;
   left: 0px;
   top: 0px;
 
@@ -2867,7 +2867,7 @@ li {
   font-family: Quando;
   font-style: normal;
   font-weight: normal;
-  font-size: 48px;
+  font-size: 24px;
   line-height: 37px;
   /* identical to box height, or 77% */
 
@@ -2883,8 +2883,8 @@ li {
   font-family: Poppins;
   font-style: normal;
   font-weight: normal;
-  font-size: 24px;
-  line-height: 47px;
+  font-size: 18px;
+  line-height: 27px;
   /* or 195% */
 
   color: rgba(255, 255, 255, 0.46);
@@ -2894,23 +2894,84 @@ li {
   width: 1263px;
   height: 1286px;
   left: 0px;
-  top: 2100px;
+  top: 1785px;
 
-  background: rgba(255, 251, 251, 0.46);
+  background: rgba(218, 214, 214, 0.46);
 }
 .the-challenge {
   position: absolute;
   width: 360px;
   height: 37px;
-  left: 709px;
-  top: 2403px;
+  left: 509px;
+  top: 5px;
 
   font-family: Quando;
   font-style: normal;
   font-weight: normal;
-  font-size: 48px;
+  font-size: 24px;
   line-height: 37px;
   /* identical to box height, or 77% */
 
   color: #000000;
+}
+.the-solution {
+  position: absolute;
+  width: 859px;
+  height: 188px;
+  left: 509px;
+  top: 210px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 47px;
+  color: black;
+}
+.the-challenge-para {
+  position: absolute;
+  width: 609px;
+  height: 188px;
+
+  top: 53px;
+  left: 509px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 27px;
+  /* or 195% */
+
+  color: rgba(0, 0, 0, 0.46);
+}
+.the-solution-para {
+  position: absolute;
+  width: 604px;
+  height: 141px;
+  left: 509px;
+  top: 250px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  /* or 195% */
+
+  color: rgba(0, 0, 0, 0.46);
+}
+#work-first-white-box {
+  position: absolute;
+  width: 899px;
+  height: 349px;
+  left: 169px;
+  top: 365px;
+
+  background: #ffffff;
+  border-radius: 1px;
+}
+.work-first-white-box-img {
+  left: 322px;
+  top: 28px;
 }
