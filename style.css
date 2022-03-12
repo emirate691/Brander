@@ -69,7 +69,6 @@ a {
 
   background: url("asset/logo/spots.png");
   /*mix-blend-mode: soft-light;*/
-  opacity: 0.6;
 }
 /* solution header*/
 #nav-id {
@@ -3163,7 +3162,7 @@ li {
 .third-layout-work-page {
   position: absolute;
   width: 1263px;
-  height: 2286px;
+  height: 2786px;
   left: 0px;
   top: 2855px;
 
@@ -3281,7 +3280,7 @@ li {
 #home {
   position: absolute;
   width: 280px;
-  height: 373px;
+  height: 443px;
   left: 20px;
   top: 30px;
 
@@ -3291,7 +3290,7 @@ li {
 #integration {
   position: absolute;
   width: 280px;
-  height: 373px;
+  height: 453px;
 
   top: 14px;
 }
@@ -3299,7 +3298,7 @@ li {
 #analytics {
   position: absolute;
   width: 280px;
-  height: 373px;
+  height: 443px;
 
   top: 30px;
 }
