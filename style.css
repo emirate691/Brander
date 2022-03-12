@@ -799,7 +799,7 @@ a {
   position: absolute;
   width: 46.13px;
   height: 46.13px;
-  left: 248px;
+  left: 358px;
   top: 156px;
 }
 
@@ -807,28 +807,28 @@ a {
   position: absolute;
   width: 46.13px;
   height: 46.13px;
-  left: 277.87px;
+  left: 387.87px;
   top: 156px;
 }
 .ellipse-6 {
   position: absolute;
   width: 76px;
   height: 46px;
-  left: 555px;
+  left: 655px;
   top: 253.07px;
 }
 .ellipse-7 {
   position: absolute;
   width: 26px;
   height: 26px;
-  left: 575px;
+  left: 675px;
   top: 263.07px;
 }
 .ellipse-8 {
   position: absolute;
   width: 14px;
   height: 14px;
-  left: 580px;
+  left: 680px;
   top: 268.07px;
 }
 
@@ -839,7 +839,7 @@ a {
   position: absolute;
   width: 93px;
   height: 38px;
-  left: 410px;
+  left: 510px;
   top: 338.07px;
 }
 .fun {
@@ -2352,9 +2352,9 @@ a {
 
 #sixth-layout-last-line {
   position: absolute;
-  left: 77.24%;
+  left: 87.24%;
   right: 0.14%;
-  top: 5.66%;
+  top: 1.66%;
   bottom: 5.86%;
 }
 .sixth-layout-testimonial {
@@ -2892,7 +2892,7 @@ li {
 .second-layout-work-page {
   position: absolute;
   width: 1263px;
-  height: 1286px;
+  height: 2886px;
   left: 0px;
   top: 1785px;
 
@@ -2971,7 +2971,335 @@ li {
   background: #ffffff;
   border-radius: 1px;
 }
-.work-first-white-box-img {
-  left: 322px;
-  top: 28px;
+.first-work-line-11-white-box {
+  position: absolute;
+  width: 57.48px;
+  height: 60px;
+  left: 337px;
+  top: 134px;
+}
+
+.first-work-line-paras-white-box {
+  position: absolute;
+  width: 152.73px;
+  height: 39.44px;
+  left: 394.48px;
+  top: 144.49px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26.8531px;
+  line-height: 37px;
+
+  color: #000000;
+}
+#work-green-rec-1 {
+  position: absolute;
+  width: 430px;
+  height: 349px;
+  left: 164px;
+  top: 754px;
+
+  background: #11271f;
+  border-radius: 1px;
+}
+
+#work-green-rec-2 {
+  position: absolute;
+  width: 430px;
+  height: 349px;
+  left: 634px;
+  top: 754px;
+
+  background: #11271f;
+  border-radius: 1px;
+}
+.first-work-line-11-green-rec-1 {
+  position: absolute;
+  width: 57.48px;
+  height: 60px;
+  left: 137px;
+  top: 134px;
+}
+
+.first-work-line-paras-work-green-rec-2 {
+  position: absolute;
+  width: 152.73px;
+  height: 39.44px;
+  left: 194.48px;
+  top: 144.49px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26.8531px;
+  line-height: 37px;
+
+  color: #ffff;
+}
+.business-trend {
+  position: absolute;
+  width: 257px;
+  height: 187px;
+  left: 20px;
+  top: 158px;
+
+  border-radius: 10px;
+}
+.welcome-your-new-sales {
+  position: absolute;
+  width: 257px;
+  height: 187px;
+  left: 140px;
+  top: 14px;
+
+  border-radius: 10px;
+}
+.visual-identity {
+  position: absolute;
+  width: 374px;
+  height: 37px;
+  left: 157px;
+  top: 1176px;
+
+  font-family: Quando;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 37px;
+  /* identical to box height, or 77% */
+
+  color: #000000;
+}
+.after-extensive {
+  position: absolute;
+  width: 917px;
+  height: 300px;
+  left: 157px;
+  top: 1235px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 37px;
+  /* or 156% */
+
+  color: #000000;
+}
+
+#second-work-rec {
+  position: absolute;
+  width: 899px;
+  height: 271px;
+  left: 159px;
+  top: 1583px;
+}
+#dp {
+  position: absolute;
+  width: 276px;
+  height: 235px;
+  left: 152px;
+  top: 1884px;
+}
+
+#facebook-banner {
+  position: absolute;
+  top: 1884px;
+  width: 616px;
+  height: 186px;
+  left: 438px;
+}
+#linkedin-banner {
+  position: absolute;
+  top: 2098px;
+  width: 616px;
+  left: 438px;
+}
+.work-bottom-line-1 {
+  position: absolute;
+  border-bottom: 1px solid #6ed160;
+  top: 2280px;
+  width: 616px;
+  left: 438px;
+}
+.work-bottom-line-2 {
+  position: absolute;
+  border-bottom: 1px solid #6ed160;
+  top: 2300px;
+  width: 616px;
+  left: 438px;
+}
+.work-bottom-line-3 {
+  position: absolute;
+  border-bottom: 1px solid #6ed160;
+  top: 2320px;
+  width: 616px;
+  left: 438px;
+}
+.work-bottom-line-4 {
+  position: absolute;
+  border-bottom: 1px solid #6ed160;
+  top: 2340px;
+  width: 616px;
+  left: 438px;
+}
+.work-bottom-line-5 {
+  position: absolute;
+  border-bottom: 1px solid #6ed160;
+  top: 2360px;
+  width: 616px;
+  left: 438px;
+}
+#work-1-7 {
+  position: absolute;
+  width: 276px;
+  height: 235px;
+  left: 152px;
+  top: 2128px;
+}
+
+.third-layout-work-page {
+  position: absolute;
+  width: 1263px;
+  height: 2286px;
+  left: 0px;
+  top: 2855px;
+
+  background: #11271f;
+}
+#laptop {
+  position: absolute;
+  width: 905px;
+  height: 405px;
+  left: 150px;
+  top: 2460px;
+}
+.website-and-ux-development {
+  position: absolute;
+  width: 775px;
+  height: 37px;
+  left: 157px;
+  top: 150px;
+
+  font-family: "Quando";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 37px;
+  /* identical to box height, or 77% */
+
+  color: #ffffff;
+}
+.our-data-backed {
+  position: absolute;
+  width: 937px;
+  height: 300px;
+  left: 157px;
+  top: 200px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 37px;
+  /* or 156% */
+
+  color: rgba(255, 255, 255, 0.46);
+}
+#image-18 {
+  position: absolute;
+  width: 450px;
+  top: 640px;
+  left: 150px;
+}
+
+#image-19 {
+  position: absolute;
+  width: 450px;
+  top: 640px;
+}
+#image-20 {
+  position: absolute;
+  width: 450px;
+  top: 980px;
+  left: 150px;
+}
+#image-21 {
+  position: absolute;
+  width: 450px;
+  top: 980px;
+}
+#third-layout-work-page-green-grass-rec {
+  position: absolute;
+  width: 900px;
+  height: 471px;
+  left: 150px;
+  top: 1436px;
+
+  background: #6ed160;
+}
+#third-layout-work-page-green-grass-re-line {
+  position: absolute;
+  width: 100px;
+  left: 7px;
+  top: 20px;
+}
+
+#third-layout-work-page-green-grass-re-img {
+  position: absolute;
+  width: 1000px;
+  height: 571px;
+  top: 20px;
+}
+#third-layout-work-page-green-grass-re-line-2 {
+  position: absolute;
+  width: 140px;
+  left: 900px;
+  top: 470px;
+}
+
+#third-layout-work-page-green-grass-re-line-cross {
+  position: absolute;
+  width: 40px;
+  top: 580px;
+  left: 750px;
+}
+#forth-layout-work-page {
+  position: absolute;
+  width: 900px;
+  height: 473px;
+  left: 150px;
+  top: 2207px;
+
+  background: #0f211a;
+
+  backdrop-filter: blur(80px);
+  color: #ffffff;
+}
+#home {
+  position: absolute;
+  width: 280px;
+  height: 373px;
+  left: 20px;
+  top: 30px;
+
+  border-radius: 0px 0px 5px 5px;
+}
+
+#integration {
+  position: absolute;
+  width: 280px;
+  height: 373px;
+
+  top: 14px;
+}
+
+#analytics {
+  position: absolute;
+  width: 280px;
+  height: 373px;
+
+  top: 30px;
 }
